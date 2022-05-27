@@ -61,7 +61,7 @@ A "receita de bolo" utilizada aqui foi a seguinte:
 
 #### Estrutura do projeto
 
-A estrutura do projeto é dividida em 3 arquivos que estão dentro da pasta `src`, são eles:
+A estrutura do projeto é dividida em 4 arquivos que estão dentro da pasta `src`, são eles:
 
 - `./server.js` => Possui a estrutura do servidor, com referência aos resolvers e os typeDefs (schema graphql)
 - `./resolvers` => Possui a estrutura da construção da mutation `search`, similiar a uma rota no modelo REST
