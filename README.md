@@ -109,7 +109,7 @@ A estrutura do projeto é dividida em 3 arquivos que estão dentro da pasta `src
 
 Primeiro deve-se verificar se o `Node.js` está instalado, caso não esteja segue o link abaixo para a instalação:
 
-(Download Node js)[https://nodejs.org/en/download/]
+[Download Node js](https://nodejs.org/en/download/)
 
 Com o Node instalado, abra o terminal(cmd) e rode o comando abaixo no diretório raíz do projeto para instalar as dependências e bibliotecas:
 
