@@ -1,6 +1,5 @@
 # Studio Sol - [🚀Desafio]
 
-Esse projeto refere-se ao desafio técnico do processo seletivo para a vaga de desenvolvedor back-end.
 ##### *Recomenda-se para uma maior compreensão, visualizar esse arquivo em algum visualizador de arquivos markdown. Extenções do Visual Studio Code como a Markdown Preview Github Styling (Link no final do arquivo) permitem isso.
 
 ## Maior número romano em uma palavra
